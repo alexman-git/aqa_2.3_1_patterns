@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/y3o6p6ft7rush96s?svg=true)](https://ci.appveyor.com/project/alexman-git/aqa-2-3-1-patterns)
