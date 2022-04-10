@@ -2,6 +2,6 @@
 
 **Test reports:**
 
-- [**Allure**](https://github.com/alexman-git/aqa_2.3_1_patterns/blob/main/build/reports/allure-report/allureReport/index.html)
+- [**Allure**](https://htmlpreview.github.io/?https://github.com/alexman-git/aqa_2.3_1_patterns/blob/main/build/reports/allure-report/allureReport/index.html)
 
-- [**Gradle**](https://github.com/alexman-git/aqa_2.3_1_patterns/blob/main/build/reports/tests/test/index.html)
+- [**Gradle**](https://htmlpreview.github.io/?https://github.com/alexman-git/aqa_2.3_1_patterns/blob/main/build/reports/tests/test/index.html)
