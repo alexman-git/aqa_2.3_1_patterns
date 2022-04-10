@@ -1,0 +1,1751 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP",
+    "children" : [ {
+      "name" : "4836@DESKTOP.Test worker(13)",
+      "children" : [ {
+        "name" : "[1] letter_Yo_LowerCase, 0",
+        "uid" : "c733cfed9d7e6ba4",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649585010203,
+          "stop" : 1649585026418,
+          "duration" : 16215
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotSendFormWithBoxNotClicked()",
+        "uid" : "aec76df8362ad224",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584886014,
+          "stop" : 1649584886996,
+          "duration" : 982
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[2] meetingIn_30_Days, 30",
+        "uid" : "a77b1eaf2fa24bff",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649585044171,
+          "stop" : 1649585045413,
+          "duration" : 1242
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldAddPlusSymbolToPhoneNumberAutomatically()",
+        "uid" : "1894fb52d3f9e21",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649585048685,
+          "stop" : 1649585049931,
+          "duration" : 1246
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldPlanAndReplanMeetingSuccessfully_HappyPathTest()",
+        "uid" : "1bb50c15e167b29b",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649585046684,
+          "stop" : 1649585048681,
+          "duration" : 1997
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[9] nameOneHyphenOnlyWithoutLetters, 8",
+        "uid" : "eafd3816214e2e2a",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584952490,
+          "stop" : 1649584957793,
+          "duration" : 5303
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[4] restrictedSymbolsOnlyDigits, 3",
+        "uid" : "a74166bee7da7236",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584994305,
+          "stop" : 1649584995289,
+          "duration" : 984
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[1] fullNameLatin, 0",
+        "uid" : "562b6a4a8f7228d",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584921400,
+          "stop" : 1649584922555,
+          "duration" : 1155
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[7] nameCyrillicWithHyphenAtTheBeginning, 6",
+        "uid" : "497853bedd2ff331",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584941615,
+          "stop" : 1649584946807,
+          "duration" : 5192
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[7] cyrillicForeignCityName, 6",
+        "uid" : "90bccf0b070d8e1c",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584997328,
+          "stop" : 1649584998323,
+          "duration" : 995
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[1] wrongDays, 0",
+        "uid" : "6bcfa4d7c5183e2f",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584812773,
+          "stop" : 1649584842447,
+          "duration" : 29674
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotReplanIfNewDataExtendsMoreThan90DaysFromNow()",
+        "uid" : "8a8bbb9ffa784b38",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584887019,
+          "stop" : 1649584904466,
+          "duration" : 17447
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotValidateFieldWithEmptyPhoneNumber()",
+        "uid" : "736dcd60c196cb46",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584845242,
+          "stop" : 1649584852397,
+          "duration" : 7155
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "[3] wrongLeapYearDate, 2",
+        "uid" : "490686e11f9d2079",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584843894,
+          "stop" : 1649584845062,
+          "duration" : 1168
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[4] nonExistentNumberElevenNulls, 3",
+        "uid" : "bfdc19ac84a31169",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584985627,
+          "stop" : 1649584991065,
+          "duration" : 5438
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[3] meetingToday, 0",
+        "uid" : "71f869d8cbbe3dc5",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584860025,
+          "stop" : 1649584861343,
+          "duration" : 1318
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[5] meetingYearAgo, -365",
+        "uid" : "20416f40eca0a95a",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584862785,
+          "stop" : 1649584864120,
+          "duration" : 1335
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotShowReplanNotificationIfUserDataAndDateRemainTheSame()",
+        "uid" : "ddaead4e5fa65789",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584904482,
+          "stop" : 1649584921381,
+          "duration" : 16899
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[3] phoneNumberOfAnotherCountry, 2",
+        "uid" : "9005f831c8bf1c7d",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584980255,
+          "stop" : 1649584985608,
+          "duration" : 5353
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[2] meetingTomorrow, 1",
+        "uid" : "e4661f3448863b5e",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584858632,
+          "stop" : 1649584859962,
+          "duration" : 1330
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[2] latinRuCityName, 1",
+        "uid" : "eaf0afca463f9397",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584992162,
+          "stop" : 1649584993209,
+          "duration" : 1047
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotValidateFieldWithEmptyCityName()",
+        "uid" : "6530baf065aa947c",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584968646,
+          "stop" : 1649584969603,
+          "duration" : 957
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[1] onlyPlusSymbol, 0",
+        "uid" : "944baf53be374e66",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584969608,
+          "stop" : 1649584974991,
+          "duration" : 5383
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[10] cyrillicRuCityRegCenterWithRoughCaseErrors, 9",
+        "uid" : "3bb1f84663477583",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649585004786,
+          "stop" : 1649585010187,
+          "duration" : 5401
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotValidateFieldWithEmptyName()",
+        "uid" : "8aebde3a29f3bb9a",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584855002,
+          "stop" : 1649584857206,
+          "duration" : 2204
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[1] meetingInOneWeek, 7",
+        "uid" : "19636dac04b3f1cd",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649585042678,
+          "stop" : 1649585044156,
+          "duration" : 1478
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[8] meeting_In100Years_RedundantOpportunity, 36500",
+        "uid" : "7457a2cd045e1294",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584875389,
+          "stop" : 1649584880736,
+          "duration" : 5347
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[6] restrictedSymbolsNoLetters, 5",
+        "uid" : "b36ce076499a4b1d",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584996271,
+          "stop" : 1649584997324,
+          "duration" : 1053
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[2] oneLetterNameCyrillic(minBoundaryTest), 1",
+        "uid" : "2a072694c6c11037",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584922566,
+          "stop" : 1649584928074,
+          "duration" : 5508
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[9] cyrillicRuCityRegCenterAllLettersLowerCase, 8",
+        "uid" : "5b419ce82096baf7",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584999324,
+          "stop" : 1649585004759,
+          "duration" : 5435
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[11] nameCyrillicWithRoughCaseErrors, 10",
+        "uid" : "7515057d20c892aa",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584963186,
+          "stop" : 1649584968630,
+          "duration" : 5444
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[5] nameCyrillicWithSpecialSymbols, 4",
+        "uid" : "15516b1d3597fa93",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584934966,
+          "stop" : 1649584935997,
+          "duration" : 1031
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[3] cyrillicRuCityNameRegCenterWithRestrictedSymbols, 2",
+        "uid" : "3a3e57f4d1ecc567",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584993232,
+          "stop" : 1649584994301,
+          "duration" : 1069
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[1] meetingInTwoDays, 2",
+        "uid" : "490b0304a6485c60",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584857213,
+          "stop" : 1649584858544,
+          "duration" : 1331
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[9] meeting_In150Years_RedundantOpportunity, 54750",
+        "uid" : "f229cf6167bb17bd",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584880741,
+          "stop" : 1649584885996,
+          "duration" : 5255
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[8] nameCyrillicWithHyphenAtTheEnd, 7",
+        "uid" : "f693838621d714c6",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584946860,
+          "stop" : 1649584952474,
+          "duration" : 5614
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotValidateFieldWithEmptyDate()",
+        "uid" : "f45932fcd6f95dba",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584852436,
+          "stop" : 1649584854879,
+          "duration" : 2443
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[2] tooShortNumber, 1",
+        "uid" : "3fa1a84cbaf884fb",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584975022,
+          "stop" : 1649584980239,
+          "duration" : 5217
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[6] meeting_In100Days_RedundantOpportunity, 100",
+        "uid" : "1066063be26a89e8",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584864124,
+          "stop" : 1649584869620,
+          "duration" : 5496
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[6] nameCyrillicWithTwoHyphensInRow, 5",
+        "uid" : "8c53ec1f526c0e05",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584936019,
+          "stop" : 1649584941600,
+          "duration" : 5581
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[10] nameCyrillicAllLettersInLowerCase, 9",
+        "uid" : "45797a0737aeab6",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584957798,
+          "stop" : 1649584963171,
+          "duration" : 5373
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[3] extremelyLongNameCyrillic(maxBoundaryTest), 2",
+        "uid" : "81781b0fa51999c6",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584928090,
+          "stop" : 1649584933902,
+          "duration" : 5812
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[7] meeting_InTwoYears_RedundantOpportunity, 730",
+        "uid" : "1b651da092e024a0",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584869652,
+          "stop" : 1649584875379,
+          "duration" : 5727
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[1] latinForeignCityName, 0",
+        "uid" : "1d00144046108f00",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584991081,
+          "stop" : 1649584992158,
+          "duration" : 1077
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[4] meetingDayAgo, -1",
+        "uid" : "16668f30286d7a8e",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584861439,
+          "stop" : 1649584862693,
+          "duration" : 1254
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[5] cyrillicRuCityNameNotRegCenter, 4",
+        "uid" : "bda16642e6cb17a7",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584995293,
+          "stop" : 1649584996266,
+          "duration" : 973
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[2] wrongMonths, 1",
+        "uid" : "c3372f556aabb2e9",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584842622,
+          "stop" : 1649584843822,
+          "duration" : 1200
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "[3] meetingIn_90_Days, 90",
+        "uid" : "b46464123342b226",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649585045426,
+          "stop" : 1649585046668,
+          "duration" : 1242
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[2] letter_Yo_UpperCase, 1",
+        "uid" : "4278c004f4f20c85",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649585026433,
+          "stop" : 1649585042662,
+          "duration" : 16229
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[4] nameCyrillicWithDigits, 3",
+        "uid" : "ae881d51d290216b",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584933931,
+          "stop" : 1649584934962,
+          "duration" : 1031
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[8] nonexistentCityName, 7",
+        "uid" : "63f20fac875490a7",
+        "parentUid" : "957ddb6c4e7164f27c563829279d4021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584998327,
+          "stop" : 1649584999320,
+          "duration" : 993
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "957ddb6c4e7164f27c563829279d4021"
+    }, {
+      "name" : "10792@DESKTOP.Test worker(13)",
+      "children" : [ {
+        "name" : "[10] nameCyrillicAllLettersInLowerCase, 9",
+        "uid" : "2d06d8e6071f5ef3",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649583972396,
+          "stop" : 1649583977701,
+          "duration" : 5305
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[8] nonexistentCityName, 7",
+        "uid" : "3942f6e8a6b5f624",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584013735,
+          "stop" : 1649584014801,
+          "duration" : 1066
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldAddPlusSymbolToPhoneNumberAutomatically()",
+        "uid" : "b3e51cca0240650a",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584064528,
+          "stop" : 1649584065783,
+          "duration" : 1255
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[9] meeting_In150Years_RedundantOpportunity, 54750",
+        "uid" : "cf352de3b47d3428",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649583885957,
+          "stop" : 1649583894726,
+          "duration" : 8769
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[9] nameOneHyphenOnlyWithoutLetters, 8",
+        "uid" : "ff232f0207a76a47",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649583966876,
+          "stop" : 1649583972396,
+          "duration" : 5520
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[1] fullNameLatin, 0",
+        "uid" : "8f820c4b9b36b884",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649583932475,
+          "stop" : 1649583933826,
+          "duration" : 1351
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[5] meetingYearAgo, -365",
+        "uid" : "f61b10f7c12854b5",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649583861320,
+          "stop" : 1649583863262,
+          "duration" : 1942
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[2] wrongMonths, 1",
+        "uid" : "8ee819b88509b88c",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649583812522,
+          "stop" : 1649583833589,
+          "duration" : 21067
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotValidateFieldWithEmptyCityName()",
+        "uid" : "5670d0ef0073c479",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649583983171,
+          "stop" : 1649583984099,
+          "duration" : 928
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldPlanAndReplanMeetingSuccessfully_HappyPathTest()",
+        "uid" : "edca8f6cb19ffee",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584062433,
+          "stop" : 1649584064509,
+          "duration" : 2076
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[1] onlyPlusSymbol, 0",
+        "uid" : "99aa34f79857081b",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649583984105,
+          "stop" : 1649583989601,
+          "duration" : 5496
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[4] meetingDayAgo, -1",
+        "uid" : "984f92901480a3fa",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649583859269,
+          "stop" : 1649583861225,
+          "duration" : 1956
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[3] meetingIn_90_Days, 90",
+        "uid" : "d5a8b737aba75440",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584061065,
+          "stop" : 1649584062354,
+          "duration" : 1289
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[7] nameCyrillicWithHyphenAtTheBeginning, 6",
+        "uid" : "fd7606d1e2e9e01a",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649583955252,
+          "stop" : 1649583961080,
+          "duration" : 5828
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[2] latinRuCityName, 1",
+        "uid" : "84f6866440d9cee2",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584007232,
+          "stop" : 1649584008203,
+          "duration" : 971
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[6] meeting_In100Days_RedundantOpportunity, 100",
+        "uid" : "2def1c6bcc350729",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649583863266,
+          "stop" : 1649583870121,
+          "duration" : 6855
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[5] nameCyrillicWithSpecialSymbols, 4",
+        "uid" : "e954ba3f0059e784",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649583948205,
+          "stop" : 1649583949309,
+          "duration" : 1104
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[1] wrongDays, 0",
+        "uid" : "a57167fc8c62265b",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "broken",
+        "time" : {
+          "start" : 1649583678760,
+          "stop" : 1649583812144,
+          "duration" : 133384
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[4] nonExistentNumberElevenNulls, 3",
+        "uid" : "8931e0196f0a0249",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584000513,
+          "stop" : 1649584005890,
+          "duration" : 5377
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotShowReplanNotificationIfUserDataAndDateRemainTheSame()",
+        "uid" : "49613b6b41c9553f",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649583915295,
+          "stop" : 1649583932413,
+          "duration" : 17118
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[3] phoneNumberOfAnotherCountry, 2",
+        "uid" : "94cbd9a4471a3b7b",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649583994978,
+          "stop" : 1649584000398,
+          "duration" : 5420
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotValidateFieldWithEmptyPhoneNumber()",
+        "uid" : "d036a4aaf3df2926",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649583840607,
+          "stop" : 1649583844798,
+          "duration" : 4191
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[11] nameCyrillicWithRoughCaseErrors, 10",
+        "uid" : "f78bd2897dd76d1c",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649583977707,
+          "stop" : 1649583983132,
+          "duration" : 5425
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[3] cyrillicRuCityNameRegCenterWithRestrictedSymbols, 2",
+        "uid" : "ed8538ac10dc037a",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584008259,
+          "stop" : 1649584009295,
+          "duration" : 1036
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[9] cyrillicRuCityRegCenterAllLettersLowerCase, 8",
+        "uid" : "2c7c1d6f789870e7",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584014842,
+          "stop" : 1649584020173,
+          "duration" : 5331
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[2] meetingTomorrow, 1",
+        "uid" : "3ecc1bee130e5e16",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649583853492,
+          "stop" : 1649583855870,
+          "duration" : 2378
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[7] cyrillicForeignCityName, 6",
+        "uid" : "1a3469d4df615270",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584012663,
+          "stop" : 1649584013695,
+          "duration" : 1032
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotValidateFieldWithEmptyName()",
+        "uid" : "3f5cdcbd04ca79d7",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649583848623,
+          "stop" : 1649583850914,
+          "duration" : 2291
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[2] oneLetterNameCyrillic(minBoundaryTest), 1",
+        "uid" : "6597898963542e00",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649583934119,
+          "stop" : 1649583940242,
+          "duration" : 6123
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[4] restrictedSymbolsOnlyDigits, 3",
+        "uid" : "f808c225fb1da670",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584009336,
+          "stop" : 1649584010309,
+          "duration" : 973
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[2] letter_Yo_UpperCase, 1",
+        "uid" : "188ab51059514059",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584041853,
+          "stop" : 1649584058324,
+          "duration" : 16471
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[8] nameCyrillicWithHyphenAtTheEnd, 7",
+        "uid" : "7f39e5cb06fd061e",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649583961192,
+          "stop" : 1649583966861,
+          "duration" : 5669
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[6] restrictedSymbolsNoLetters, 5",
+        "uid" : "5eb897485e387d07",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584011669,
+          "stop" : 1649584012657,
+          "duration" : 988
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[7] meeting_InTwoYears_RedundantOpportunity, 730",
+        "uid" : "154e21f3ab297d7f",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649583870159,
+          "stop" : 1649583877832,
+          "duration" : 7673
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotSendFormWithBoxNotClicked()",
+        "uid" : "6fa470c2cc7fe0e",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649583895005,
+          "stop" : 1649583896847,
+          "duration" : 1842
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[1] letter_Yo_LowerCase, 0",
+        "uid" : "3f969745c893f74b",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584025375,
+          "stop" : 1649584041684,
+          "duration" : 16309
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[1] meetingInOneWeek, 7",
+        "uid" : "5aff8c017d3494c7",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584058324,
+          "stop" : 1649584059731,
+          "duration" : 1407
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[5] cyrillicRuCityNameNotRegCenter, 4",
+        "uid" : "5523ec43bfb386cf",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584010590,
+          "stop" : 1649584011664,
+          "duration" : 1074
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[8] meeting_In100Years_RedundantOpportunity, 36500",
+        "uid" : "8edf3673186ad349",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649583877926,
+          "stop" : 1649583885935,
+          "duration" : 8009
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotValidateFieldWithEmptyDate()",
+        "uid" : "43ae413178dea391",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649583844829,
+          "stop" : 1649583848083,
+          "duration" : 3254
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[6] nameCyrillicWithTwoHyphensInRow, 5",
+        "uid" : "79f94a3703d46300",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649583949345,
+          "stop" : 1649583955151,
+          "duration" : 5806
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[10] cyrillicRuCityRegCenterWithRoughCaseErrors, 9",
+        "uid" : "c91b72bd26f35a0f",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584020202,
+          "stop" : 1649584025359,
+          "duration" : 5157
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[1] meetingInTwoDays, 2",
+        "uid" : "71f2e00a0e4c4e1",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649583851259,
+          "stop" : 1649583853488,
+          "duration" : 2229
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[3] meetingToday, 0",
+        "uid" : "7421749fea99289d",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649583855961,
+          "stop" : 1649583858665,
+          "duration" : 2704
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[2] tooShortNumber, 1",
+        "uid" : "e2100fdc7b6840d3",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649583989701,
+          "stop" : 1649583994894,
+          "duration" : 5193
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[2] meetingIn_30_Days, 30",
+        "uid" : "81938fe1604d86d4",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584059769,
+          "stop" : 1649584061049,
+          "duration" : 1280
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[3] wrongLeapYearDate, 2",
+        "uid" : "dc928df0a2ace4da",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649583833636,
+          "stop" : 1649583840251,
+          "duration" : 6615
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[4] nameCyrillicWithDigits, 3",
+        "uid" : "1803e55374532ce8",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649583947007,
+          "stop" : 1649583948161,
+          "duration" : 1154
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[1] latinForeignCityName, 0",
+        "uid" : "d6dbe01d0f92ca0d",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649584005912,
+          "stop" : 1649584007153,
+          "duration" : 1241
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[3] extremelyLongNameCyrillic(maxBoundaryTest), 2",
+        "uid" : "5cbab1d6b78126f4",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649583940279,
+          "stop" : 1649583946853,
+          "duration" : 6574
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldNotReplanIfNewDataExtendsMoreThan90DaysFromNow()",
+        "uid" : "8027213f7c363a45",
+        "parentUid" : "43f673e006c7f7fbe8dd197cfe5d2fdf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649583897007,
+          "stop" : 1649583915216,
+          "duration" : 18209
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "43f673e006c7f7fbe8dd197cfe5d2fdf"
+    } ],
+    "uid" : "0c257401e36059c47eb161009319d0d4"
+  } ]
+}

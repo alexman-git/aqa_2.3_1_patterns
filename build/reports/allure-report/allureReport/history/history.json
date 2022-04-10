@@ -1,0 +1,994 @@
+{
+  "f59903d14e8171b3a661f456d1570a6b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3bb1f84663477583",
+      "status" : "failed",
+      "statusDetails" : "Element not found {[data-test-id='city'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649585009971.20.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649585009971.20.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='city'].input_invalid .input__sub\"}",
+      "time" : {
+        "start" : 1649585004786,
+        "stop" : 1649585010187,
+        "duration" : 5401
+      }
+    } ]
+  },
+  "c845032727b777b1d4e299b39786ce1f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1894fb52d3f9e21",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649585048685,
+        "stop" : 1649585049931,
+        "duration" : 1246
+      }
+    } ]
+  },
+  "f9e9b6d0bd83b1d5f73363aa552524a9" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "81781b0fa51999c6",
+      "status" : "failed",
+      "statusDetails" : "Element not found {[data-test-id='name'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584933708.8.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584933708.8.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='name'].input_invalid .input__sub\"}",
+      "time" : {
+        "start" : 1649584928090,
+        "stop" : 1649584933902,
+        "duration" : 5812
+      }
+    } ]
+  },
+  "a407ba8467e105d35376da17c46844b5" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "497853bedd2ff331",
+      "status" : "failed",
+      "statusDetails" : "Element not found {[data-test-id='name'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584946575.10.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584946575.10.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='name'].input_invalid .input__sub\"}",
+      "time" : {
+        "start" : 1649584941615,
+        "stop" : 1649584946807,
+        "duration" : 5192
+      }
+    } ]
+  },
+  "491c1892e785a9627caedcfef4d26cf8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eafd3816214e2e2a",
+      "status" : "failed",
+      "statusDetails" : "Element not found {[data-test-id='name'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584957530.12.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584957530.12.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='name'].input_invalid .input__sub\"}",
+      "time" : {
+        "start" : 1649584952490,
+        "stop" : 1649584957793,
+        "duration" : 5303
+      }
+    } ]
+  },
+  "1fcba73ecc655e97f7afbcc173cf9b3e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eaf0afca463f9397",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649584992162,
+        "stop" : 1649584993209,
+        "duration" : 1047
+      }
+    } ]
+  },
+  "b38a197b0e090a67d40679e628065980" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ddaead4e5fa65789",
+      "status" : "failed",
+      "statusDetails" : "Element should be visible {[data-test-id='error-notification'] .notification__title}\r\nElement: '<div class=\"notification__title\" displayed:false></div>'\r\nActual value: hidden\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584921147.6.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584921147.6.html\r\nTimeout: 15 s.",
+      "time" : {
+        "start" : 1649584904482,
+        "stop" : 1649584921381,
+        "duration" : 16899
+      }
+    } ]
+  },
+  "30803fc4e909f39b7105b602534e36c4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8aebde3a29f3bb9a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649584855002,
+        "stop" : 1649584857206,
+        "duration" : 2204
+      }
+    } ]
+  },
+  "2a7197e72d482d655d729b06f7d34f8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4278c004f4f20c85",
+      "status" : "failed",
+      "statusDetails" : "Element should be visible {[data-test-id='success-notification'] .notification__title}\r\nElement: '<div class=\"notification__title\" displayed:false></div>'\r\nActual value: hidden\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649585042454.22.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649585042454.22.html\r\nTimeout: 15 s.",
+      "time" : {
+        "start" : 1649585026433,
+        "stop" : 1649585042662,
+        "duration" : 16229
+      }
+    } ]
+  },
+  "d6bb92d72f672f1f20abe058a27d6627" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3fa1a84cbaf884fb",
+      "status" : "failed",
+      "statusDetails" : "Element not found {[data-test-id='phone'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584979969.16.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584979969.16.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='phone'].input_invalid .input__sub\"}",
+      "time" : {
+        "start" : 1649584975022,
+        "stop" : 1649584980239,
+        "duration" : 5217
+      }
+    } ]
+  },
+  "aaa90bfc9c7994a1b7136de9b7794491" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b36ce076499a4b1d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649584996271,
+        "stop" : 1649584997324,
+        "duration" : 1053
+      }
+    } ]
+  },
+  "bf7a9b9fd1373118b5acfa10d6425d98" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "19636dac04b3f1cd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649585042678,
+        "stop" : 1649585044156,
+        "duration" : 1478
+      }
+    } ]
+  },
+  "609991b9bdf2dc4bb6caa0bb9412df5a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "16668f30286d7a8e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649584861439,
+        "stop" : 1649584862693,
+        "duration" : 1254
+      }
+    } ]
+  },
+  "92807b43efb5ccd4b40b13752deea8d4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1066063be26a89e8",
+      "status" : "failed",
+      "statusDetails" : "Element not found {[data-test-id='date'] .input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584869356.1.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584869356.1.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='date'] .input_invalid .input__sub\"}",
+      "time" : {
+        "start" : 1649584864124,
+        "stop" : 1649584869620,
+        "duration" : 5496
+      }
+    } ]
+  },
+  "e67a1cd30b0721ca8d3494616f25ba3e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "63f20fac875490a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649584998327,
+        "stop" : 1649584999320,
+        "duration" : 993
+      }
+    } ]
+  },
+  "7692bb62be0708c546ec451b6b5035b5" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8a8bbb9ffa784b38",
+      "status" : "failed",
+      "statusDetails" : "Element should be visible {[data-test-id='error-notification'] .notification__title}\r\nElement: '<div class=\"notification__title\" displayed:false></div>'\r\nActual value: hidden\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584904274.5.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584904274.5.html\r\nTimeout: 15 s.",
+      "time" : {
+        "start" : 1649584887019,
+        "stop" : 1649584904466,
+        "duration" : 17447
+      }
+    } ]
+  },
+  "b6a800692cf5aed88c82a86bd195cbe1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6bcfa4d7c5183e2f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649584812773,
+        "stop" : 1649584842447,
+        "duration" : 29674
+      }
+    } ]
+  },
+  "95ddbbeec40a7a90f24a772fe9643096" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "944baf53be374e66",
+      "status" : "failed",
+      "statusDetails" : "Element not found {[data-test-id='phone'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584974703.15.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584974703.15.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='phone'].input_invalid .input__sub\"}",
+      "time" : {
+        "start" : 1649584969608,
+        "stop" : 1649584974991,
+        "duration" : 5383
+      }
+    } ]
+  },
+  "85c1d021e2048a801917a50ad06173b8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bda16642e6cb17a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649584995293,
+        "stop" : 1649584996266,
+        "duration" : 973
+      }
+    } ]
+  },
+  "e4ee06721a6fda1fcb4228aab7ec5678" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7457a2cd045e1294",
+      "status" : "failed",
+      "statusDetails" : "Element not found {[data-test-id='date'] .input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584880517.3.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584880517.3.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='date'] .input_invalid .input__sub\"}",
+      "time" : {
+        "start" : 1649584875389,
+        "stop" : 1649584880736,
+        "duration" : 5347
+      }
+    } ]
+  },
+  "68aad66f69682fe135b970ecdaca325a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a77b1eaf2fa24bff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649585044171,
+        "stop" : 1649585045413,
+        "duration" : 1242
+      }
+    } ]
+  },
+  "a786740727a8bdf8da14343b48d5b163" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b46464123342b226",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649585045426,
+        "stop" : 1649585046668,
+        "duration" : 1242
+      }
+    } ]
+  },
+  "c5e96517cf8dbed050a71487186562a8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5b419ce82096baf7",
+      "status" : "failed",
+      "statusDetails" : "Element not found {[data-test-id='city'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649585004501.19.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649585004501.19.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='city'].input_invalid .input__sub\"}",
+      "time" : {
+        "start" : 1649584999324,
+        "stop" : 1649585004759,
+        "duration" : 5435
+      }
+    } ]
+  },
+  "b09ed75d0f20635868f2f704deede6d9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "90bccf0b070d8e1c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649584997328,
+        "stop" : 1649584998323,
+        "duration" : 995
+      }
+    } ]
+  },
+  "480313abddddf27e350d10ff02613550" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "736dcd60c196cb46",
+      "status" : "failed",
+      "statusDetails" : "Element not found {[data-test-id='phone'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584851422.0.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584851422.0.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='phone'].input_invalid .input__sub\"}",
+      "time" : {
+        "start" : 1649584845242,
+        "stop" : 1649584852397,
+        "duration" : 7155
+      }
+    } ]
+  },
+  "da9e2de3929ad8a22edc052f9f110997" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1bb50c15e167b29b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649585046684,
+        "stop" : 1649585048681,
+        "duration" : 1997
+      }
+    } ]
+  },
+  "d874cea51e3cb59aa51bc4b32a57e357" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3a3e57f4d1ecc567",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649584993232,
+        "stop" : 1649584994301,
+        "duration" : 1069
+      }
+    } ]
+  },
+  "52319155de1d6c7f1eeacbfb8c3ec6b9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "20416f40eca0a95a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649584862785,
+        "stop" : 1649584864120,
+        "duration" : 1335
+      }
+    } ]
+  },
+  "f3c05c87c4d24d0a671c0839b80fdf98" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "490b0304a6485c60",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649584857213,
+        "stop" : 1649584858544,
+        "duration" : 1331
+      }
+    } ]
+  },
+  "98770a5f49e0dd7854a1289bc2b65290" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2a072694c6c11037",
+      "status" : "failed",
+      "statusDetails" : "Element not found {[data-test-id='name'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584927862.7.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584927862.7.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='name'].input_invalid .input__sub\"}",
+      "time" : {
+        "start" : 1649584922566,
+        "stop" : 1649584928074,
+        "duration" : 5508
+      }
+    } ]
+  },
+  "7575676adb92f93e6807888c8db2a31c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f229cf6167bb17bd",
+      "status" : "failed",
+      "statusDetails" : "Element not found {[data-test-id='date'] .input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584885761.4.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584885761.4.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='date'] .input_invalid .input__sub\"}",
+      "time" : {
+        "start" : 1649584880741,
+        "stop" : 1649584885996,
+        "duration" : 5255
+      }
+    } ]
+  },
+  "fa33c914f4ba23dc170d88099cb1ee83" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f693838621d714c6",
+      "status" : "failed",
+      "statusDetails" : "Element not found {[data-test-id='name'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584952232.11.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584952232.11.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='name'].input_invalid .input__sub\"}",
+      "time" : {
+        "start" : 1649584946860,
+        "stop" : 1649584952474,
+        "duration" : 5614
+      }
+    } ]
+  },
+  "5617256f27045ddc2056eec5a0dce427" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "490686e11f9d2079",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649584843894,
+        "stop" : 1649584845062,
+        "duration" : 1168
+      }
+    } ]
+  },
+  "7a9ea0d3f9efb0eb0ff5aacd123c7fac" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f45932fcd6f95dba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649584852436,
+        "stop" : 1649584854879,
+        "duration" : 2443
+      }
+    } ]
+  },
+  "fc4e696fc0d51d1253d5e7564036760d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9005f831c8bf1c7d",
+      "status" : "failed",
+      "statusDetails" : "Element not found {[data-test-id='phone'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584985399.17.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584985399.17.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='phone'].input_invalid .input__sub\"}",
+      "time" : {
+        "start" : 1649584980255,
+        "stop" : 1649584985608,
+        "duration" : 5353
+      }
+    } ]
+  },
+  "622a6adf05efbb486cb3b645c86cd0c3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1b651da092e024a0",
+      "status" : "failed",
+      "statusDetails" : "Element not found {[data-test-id='date'] .input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584875097.2.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584875097.2.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='date'] .input_invalid .input__sub\"}",
+      "time" : {
+        "start" : 1649584869652,
+        "stop" : 1649584875379,
+        "duration" : 5727
+      }
+    } ]
+  },
+  "2c504e6f73ae556f1be0e10e937c07c9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ae881d51d290216b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649584933931,
+        "stop" : 1649584934962,
+        "duration" : 1031
+      }
+    } ]
+  },
+  "9c84064730a93224c2643686357c2b49" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "45797a0737aeab6",
+      "status" : "failed",
+      "statusDetails" : "Element not found {[data-test-id='name'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584962951.13.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584962951.13.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='name'].input_invalid .input__sub\"}",
+      "time" : {
+        "start" : 1649584957798,
+        "stop" : 1649584963171,
+        "duration" : 5373
+      }
+    } ]
+  },
+  "ac3385cb839a2ebcd1749bb5f3a179eb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "15516b1d3597fa93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649584934966,
+        "stop" : 1649584935997,
+        "duration" : 1031
+      }
+    } ]
+  },
+  "a7bf86585df66b0449fead7290f6e6a7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1d00144046108f00",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649584991081,
+        "stop" : 1649584992158,
+        "duration" : 1077
+      }
+    } ]
+  },
+  "6ba93aa35ff47c1347e5cb37f5e2b400" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e4661f3448863b5e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649584858632,
+        "stop" : 1649584859962,
+        "duration" : 1330
+      }
+    } ]
+  },
+  "ed9cb14dc45ef683727f99a05560368" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aec76df8362ad224",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649584886014,
+        "stop" : 1649584886996,
+        "duration" : 982
+      }
+    } ]
+  },
+  "f633f052bf11a2e51d466cb6030bf773" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "71f869d8cbbe3dc5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649584860025,
+        "stop" : 1649584861343,
+        "duration" : 1318
+      }
+    } ]
+  },
+  "1d4663d52974fab451ce74b9c7d2fe71" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c733cfed9d7e6ba4",
+      "status" : "failed",
+      "statusDetails" : "Element should be visible {[data-test-id='success-notification'] .notification__title}\r\nElement: '<div class=\"notification__title\" displayed:false></div>'\r\nActual value: hidden\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649585026159.21.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649585026159.21.html\r\nTimeout: 15 s.",
+      "time" : {
+        "start" : 1649585010203,
+        "stop" : 1649585026418,
+        "duration" : 16215
+      }
+    } ]
+  },
+  "97904b68421563031350bc68b7d22e7e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6530baf065aa947c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649584968646,
+        "stop" : 1649584969603,
+        "duration" : 957
+      }
+    } ]
+  },
+  "d7b10d4d1c24edb5938f725add0df98" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7515057d20c892aa",
+      "status" : "failed",
+      "statusDetails" : "Element not found {[data-test-id='name'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584968394.14.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584968394.14.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='name'].input_invalid .input__sub\"}",
+      "time" : {
+        "start" : 1649584963186,
+        "stop" : 1649584968630,
+        "duration" : 5444
+      }
+    } ]
+  },
+  "e2a0b699c14bf3cba724e89bf695f68c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bfdc19ac84a31169",
+      "status" : "failed",
+      "statusDetails" : "Element not found {[data-test-id='phone'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584990783.18.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584990783.18.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='phone'].input_invalid .input__sub\"}",
+      "time" : {
+        "start" : 1649584985627,
+        "stop" : 1649584991065,
+        "duration" : 5438
+      }
+    } ]
+  },
+  "e723f744f2fb24ae218e6d2b4fca207b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c3372f556aabb2e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649584842622,
+        "stop" : 1649584843822,
+        "duration" : 1200
+      }
+    } ]
+  },
+  "9168464e7ca98ff4d133d5cf427ceda1" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8c53ec1f526c0e05",
+      "status" : "failed",
+      "statusDetails" : "Element not found {[data-test-id='name'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584941355.9.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584941355.9.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='name'].input_invalid .input__sub\"}",
+      "time" : {
+        "start" : 1649584936019,
+        "stop" : 1649584941600,
+        "duration" : 5581
+      }
+    } ]
+  },
+  "e5b6604ef8dc4fa717596dba75c55ca1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a74166bee7da7236",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649584994305,
+        "stop" : 1649584995289,
+        "duration" : 984
+      }
+    } ]
+  },
+  "fc2c109688aa0f852265ddb750160be8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "562b6a4a8f7228d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649584921400,
+        "stop" : 1649584922555,
+        "duration" : 1155
+      }
+    } ]
+  }
+}

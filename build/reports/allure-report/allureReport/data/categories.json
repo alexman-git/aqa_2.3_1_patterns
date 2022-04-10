@@ -1,0 +1,492 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Element not found {[data-test-id='phone'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584851422.0.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584851422.0.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='phone'].input_invalid .input__sub\"}",
+      "children" : [ {
+        "name" : "shouldNotValidateFieldWithEmptyPhoneNumber()",
+        "uid" : "736dcd60c196cb46",
+        "parentUid" : "bbe6da8d23c0fe28192f2ef7bd612a95",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584845242,
+          "stop" : 1649584852397,
+          "duration" : 7155
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bbe6da8d23c0fe28192f2ef7bd612a95"
+    }, {
+      "name" : "Element not found {[data-test-id='date'] .input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584869356.1.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584869356.1.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='date'] .input_invalid .input__sub\"}",
+      "children" : [ {
+        "name" : "[6] meeting_In100Days_RedundantOpportunity, 100",
+        "uid" : "1066063be26a89e8",
+        "parentUid" : "9930c4241341d6e1b2249e4c424b17f8",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584864124,
+          "stop" : 1649584869620,
+          "duration" : 5496
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9930c4241341d6e1b2249e4c424b17f8"
+    }, {
+      "name" : "Element not found {[data-test-id='date'] .input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584875097.2.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584875097.2.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='date'] .input_invalid .input__sub\"}",
+      "children" : [ {
+        "name" : "[7] meeting_InTwoYears_RedundantOpportunity, 730",
+        "uid" : "1b651da092e024a0",
+        "parentUid" : "1f9af619e2e1bf62e4c6d26d069d3a4a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584869652,
+          "stop" : 1649584875379,
+          "duration" : 5727
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1f9af619e2e1bf62e4c6d26d069d3a4a"
+    }, {
+      "name" : "Element not found {[data-test-id='date'] .input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584880517.3.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584880517.3.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='date'] .input_invalid .input__sub\"}",
+      "children" : [ {
+        "name" : "[8] meeting_In100Years_RedundantOpportunity, 36500",
+        "uid" : "7457a2cd045e1294",
+        "parentUid" : "440474c3d3f6acfa915f7075b0d99d15",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584875389,
+          "stop" : 1649584880736,
+          "duration" : 5347
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "440474c3d3f6acfa915f7075b0d99d15"
+    }, {
+      "name" : "Element not found {[data-test-id='date'] .input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584885761.4.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584885761.4.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='date'] .input_invalid .input__sub\"}",
+      "children" : [ {
+        "name" : "[9] meeting_In150Years_RedundantOpportunity, 54750",
+        "uid" : "f229cf6167bb17bd",
+        "parentUid" : "37e4fc34ea728613c837c06259a2c2a6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584880741,
+          "stop" : 1649584885996,
+          "duration" : 5255
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "37e4fc34ea728613c837c06259a2c2a6"
+    }, {
+      "name" : "Element should be visible {[data-test-id='error-notification'] .notification__title}\r\nElement: '<div class=\"notification__title\" displayed:false></div>'\r\nActual value: hidden\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584904274.5.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584904274.5.html\r\nTimeout: 15 s.",
+      "children" : [ {
+        "name" : "shouldNotReplanIfNewDataExtendsMoreThan90DaysFromNow()",
+        "uid" : "8a8bbb9ffa784b38",
+        "parentUid" : "a39607ecfde174227162acdacfcb44e5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584887019,
+          "stop" : 1649584904466,
+          "duration" : 17447
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a39607ecfde174227162acdacfcb44e5"
+    }, {
+      "name" : "Element should be visible {[data-test-id='error-notification'] .notification__title}\r\nElement: '<div class=\"notification__title\" displayed:false></div>'\r\nActual value: hidden\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584921147.6.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584921147.6.html\r\nTimeout: 15 s.",
+      "children" : [ {
+        "name" : "shouldNotShowReplanNotificationIfUserDataAndDateRemainTheSame()",
+        "uid" : "ddaead4e5fa65789",
+        "parentUid" : "d31757b89beeac873a61c431f5ad64ab",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584904482,
+          "stop" : 1649584921381,
+          "duration" : 16899
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d31757b89beeac873a61c431f5ad64ab"
+    }, {
+      "name" : "Element not found {[data-test-id='name'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584927862.7.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584927862.7.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='name'].input_invalid .input__sub\"}",
+      "children" : [ {
+        "name" : "[2] oneLetterNameCyrillic(minBoundaryTest), 1",
+        "uid" : "2a072694c6c11037",
+        "parentUid" : "d5c0f2aa896a9356f282a65825038321",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584922566,
+          "stop" : 1649584928074,
+          "duration" : 5508
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d5c0f2aa896a9356f282a65825038321"
+    }, {
+      "name" : "Element not found {[data-test-id='name'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584933708.8.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584933708.8.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='name'].input_invalid .input__sub\"}",
+      "children" : [ {
+        "name" : "[3] extremelyLongNameCyrillic(maxBoundaryTest), 2",
+        "uid" : "81781b0fa51999c6",
+        "parentUid" : "7e26fc24f046cee002440481afc823be",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584928090,
+          "stop" : 1649584933902,
+          "duration" : 5812
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7e26fc24f046cee002440481afc823be"
+    }, {
+      "name" : "Element not found {[data-test-id='name'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584941355.9.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584941355.9.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='name'].input_invalid .input__sub\"}",
+      "children" : [ {
+        "name" : "[6] nameCyrillicWithTwoHyphensInRow, 5",
+        "uid" : "8c53ec1f526c0e05",
+        "parentUid" : "05f33a6861e740099436bc6c153ad737",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584936019,
+          "stop" : 1649584941600,
+          "duration" : 5581
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "05f33a6861e740099436bc6c153ad737"
+    }, {
+      "name" : "Element not found {[data-test-id='name'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584946575.10.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584946575.10.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='name'].input_invalid .input__sub\"}",
+      "children" : [ {
+        "name" : "[7] nameCyrillicWithHyphenAtTheBeginning, 6",
+        "uid" : "497853bedd2ff331",
+        "parentUid" : "0eab2235762262755b973850f108813d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584941615,
+          "stop" : 1649584946807,
+          "duration" : 5192
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0eab2235762262755b973850f108813d"
+    }, {
+      "name" : "Element not found {[data-test-id='name'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584952232.11.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584952232.11.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='name'].input_invalid .input__sub\"}",
+      "children" : [ {
+        "name" : "[8] nameCyrillicWithHyphenAtTheEnd, 7",
+        "uid" : "f693838621d714c6",
+        "parentUid" : "02ee13076b1c34729bbe10678531b908",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584946860,
+          "stop" : 1649584952474,
+          "duration" : 5614
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "02ee13076b1c34729bbe10678531b908"
+    }, {
+      "name" : "Element not found {[data-test-id='name'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584957530.12.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584957530.12.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='name'].input_invalid .input__sub\"}",
+      "children" : [ {
+        "name" : "[9] nameOneHyphenOnlyWithoutLetters, 8",
+        "uid" : "eafd3816214e2e2a",
+        "parentUid" : "2aed560d3d93bc6ce88d9ad1cfadb7d9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584952490,
+          "stop" : 1649584957793,
+          "duration" : 5303
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2aed560d3d93bc6ce88d9ad1cfadb7d9"
+    }, {
+      "name" : "Element not found {[data-test-id='name'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584962951.13.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584962951.13.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='name'].input_invalid .input__sub\"}",
+      "children" : [ {
+        "name" : "[10] nameCyrillicAllLettersInLowerCase, 9",
+        "uid" : "45797a0737aeab6",
+        "parentUid" : "5b933d7aa47d7d213fe385cd022bb10d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584957798,
+          "stop" : 1649584963171,
+          "duration" : 5373
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5b933d7aa47d7d213fe385cd022bb10d"
+    }, {
+      "name" : "Element not found {[data-test-id='name'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584968394.14.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584968394.14.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='name'].input_invalid .input__sub\"}",
+      "children" : [ {
+        "name" : "[11] nameCyrillicWithRoughCaseErrors, 10",
+        "uid" : "7515057d20c892aa",
+        "parentUid" : "8968c4ca27e69bb8cff4853bd837c878",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584963186,
+          "stop" : 1649584968630,
+          "duration" : 5444
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8968c4ca27e69bb8cff4853bd837c878"
+    }, {
+      "name" : "Element not found {[data-test-id='phone'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584974703.15.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584974703.15.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='phone'].input_invalid .input__sub\"}",
+      "children" : [ {
+        "name" : "[1] onlyPlusSymbol, 0",
+        "uid" : "944baf53be374e66",
+        "parentUid" : "c9fbc74fc2158d703904aec52bdd19bb",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584969608,
+          "stop" : 1649584974991,
+          "duration" : 5383
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c9fbc74fc2158d703904aec52bdd19bb"
+    }, {
+      "name" : "Element not found {[data-test-id='phone'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584979969.16.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584979969.16.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='phone'].input_invalid .input__sub\"}",
+      "children" : [ {
+        "name" : "[2] tooShortNumber, 1",
+        "uid" : "3fa1a84cbaf884fb",
+        "parentUid" : "95596813eeacf6aa04299741f63811ed",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584975022,
+          "stop" : 1649584980239,
+          "duration" : 5217
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "95596813eeacf6aa04299741f63811ed"
+    }, {
+      "name" : "Element not found {[data-test-id='phone'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584985399.17.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584985399.17.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='phone'].input_invalid .input__sub\"}",
+      "children" : [ {
+        "name" : "[3] phoneNumberOfAnotherCountry, 2",
+        "uid" : "9005f831c8bf1c7d",
+        "parentUid" : "cc85ee86c06e5461de71db20c588b156",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584980255,
+          "stop" : 1649584985608,
+          "duration" : 5353
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cc85ee86c06e5461de71db20c588b156"
+    }, {
+      "name" : "Element not found {[data-test-id='phone'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584990783.18.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649584990783.18.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='phone'].input_invalid .input__sub\"}",
+      "children" : [ {
+        "name" : "[4] nonExistentNumberElevenNulls, 3",
+        "uid" : "bfdc19ac84a31169",
+        "parentUid" : "8d955d30485ef391f08d84e0092693da",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584985627,
+          "stop" : 1649584991065,
+          "duration" : 5438
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8d955d30485ef391f08d84e0092693da"
+    }, {
+      "name" : "Element not found {[data-test-id='city'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649585004501.19.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649585004501.19.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='city'].input_invalid .input__sub\"}",
+      "children" : [ {
+        "name" : "[9] cyrillicRuCityRegCenterAllLettersLowerCase, 8",
+        "uid" : "5b419ce82096baf7",
+        "parentUid" : "eb0e4eadb56fb3ff7c506f29bbcca4c6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649584999324,
+          "stop" : 1649585004759,
+          "duration" : 5435
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "eb0e4eadb56fb3ff7c506f29bbcca4c6"
+    }, {
+      "name" : "Element not found {[data-test-id='city'].input_invalid .input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649585009971.20.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649585009971.20.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-test-id='city'].input_invalid .input__sub\"}",
+      "children" : [ {
+        "name" : "[10] cyrillicRuCityRegCenterWithRoughCaseErrors, 9",
+        "uid" : "3bb1f84663477583",
+        "parentUid" : "bc89cdd159e2f75f1f13e4b0f054e709",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649585004786,
+          "stop" : 1649585010187,
+          "duration" : 5401
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bc89cdd159e2f75f1f13e4b0f054e709"
+    }, {
+      "name" : "Element should be visible {[data-test-id='success-notification'] .notification__title}\r\nElement: '<div class=\"notification__title\" displayed:false></div>'\r\nActual value: hidden\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649585026159.21.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649585026159.21.html\r\nTimeout: 15 s.",
+      "children" : [ {
+        "name" : "[1] letter_Yo_LowerCase, 0",
+        "uid" : "c733cfed9d7e6ba4",
+        "parentUid" : "39b2ef61f910febe4019334249d5f571",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649585010203,
+          "stop" : 1649585026418,
+          "duration" : 16215
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "39b2ef61f910febe4019334249d5f571"
+    }, {
+      "name" : "Element should be visible {[data-test-id='success-notification'] .notification__title}\r\nElement: '<div class=\"notification__title\" displayed:false></div>'\r\nActual value: hidden\r\nScreenshot: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649585042454.22.png\r\nPage source: file:/C:/AQA_course_hw/2.3_1_new/build/reports/tests/1649585042454.22.html\r\nTimeout: 15 s.",
+      "children" : [ {
+        "name" : "[2] letter_Yo_UpperCase, 1",
+        "uid" : "4278c004f4f20c85",
+        "parentUid" : "7a1af066a0b0bf95e4403199e91bbac4",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649585026433,
+          "stop" : 1649585042662,
+          "duration" : 16229
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7a1af066a0b0bf95e4403199e91bbac4"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

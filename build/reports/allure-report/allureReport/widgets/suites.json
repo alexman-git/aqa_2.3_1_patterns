@@ -1,0 +1,26 @@
+{
+  "total" : 2,
+  "items" : [ {
+    "uid" : "26a944c06d86162045b898784077bc36",
+    "name" : "ru.netology.delivery.test.NegativeTests",
+    "statistic" : {
+      "failed" : 21,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 44
+    }
+  }, {
+    "uid" : "b105cad4a7c40c97abf131fb9d89c35c",
+    "name" : "ru.netology.delivery.test.PositiveTests",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 7
+    }
+  } ]
+}

@@ -1,0 +1,511 @@
+[ {
+  "uid" : "f45932fcd6f95dba",
+  "name" : "shouldNotValidateFieldWithEmptyDate()",
+  "time" : {
+    "start" : 1649584852436,
+    "stop" : 1649584854879,
+    "duration" : 2443
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1894fb52d3f9e21",
+  "name" : "shouldAddPlusSymbolToPhoneNumberAutomatically()",
+  "time" : {
+    "start" : 1649585048685,
+    "stop" : 1649585049931,
+    "duration" : 1246
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bfdc19ac84a31169",
+  "name" : "[4] nonExistentNumberElevenNulls, 3",
+  "time" : {
+    "start" : 1649584985627,
+    "stop" : 1649584991065,
+    "duration" : 5438
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "c733cfed9d7e6ba4",
+  "name" : "[1] letter_Yo_LowerCase, 0",
+  "time" : {
+    "start" : 1649585010203,
+    "stop" : 1649585026418,
+    "duration" : 16215
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a3e57f4d1ecc567",
+  "name" : "[3] cyrillicRuCityNameRegCenterWithRestrictedSymbols, 2",
+  "time" : {
+    "start" : 1649584993232,
+    "stop" : 1649584994301,
+    "duration" : 1069
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "90bccf0b070d8e1c",
+  "name" : "[7] cyrillicForeignCityName, 6",
+  "time" : {
+    "start" : 1649584997328,
+    "stop" : 1649584998323,
+    "duration" : 995
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9005f831c8bf1c7d",
+  "name" : "[3] phoneNumberOfAnotherCountry, 2",
+  "time" : {
+    "start" : 1649584980255,
+    "stop" : 1649584985608,
+    "duration" : 5353
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "45797a0737aeab6",
+  "name" : "[10] nameCyrillicAllLettersInLowerCase, 9",
+  "time" : {
+    "start" : 1649584957798,
+    "stop" : 1649584963171,
+    "duration" : 5373
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b419ce82096baf7",
+  "name" : "[9] cyrillicRuCityRegCenterAllLettersLowerCase, 8",
+  "time" : {
+    "start" : 1649584999324,
+    "stop" : 1649585004759,
+    "duration" : 5435
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "16668f30286d7a8e",
+  "name" : "[4] meetingDayAgo, -1",
+  "time" : {
+    "start" : 1649584861439,
+    "stop" : 1649584862693,
+    "duration" : 1254
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e4661f3448863b5e",
+  "name" : "[2] meetingTomorrow, 1",
+  "time" : {
+    "start" : 1649584858632,
+    "stop" : 1649584859962,
+    "duration" : 1330
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "19636dac04b3f1cd",
+  "name" : "[1] meetingInOneWeek, 7",
+  "time" : {
+    "start" : 1649585042678,
+    "stop" : 1649585044156,
+    "duration" : 1478
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8c53ec1f526c0e05",
+  "name" : "[6] nameCyrillicWithTwoHyphensInRow, 5",
+  "time" : {
+    "start" : 1649584936019,
+    "stop" : 1649584941600,
+    "duration" : 5581
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "562b6a4a8f7228d",
+  "name" : "[1] fullNameLatin, 0",
+  "time" : {
+    "start" : 1649584921400,
+    "stop" : 1649584922555,
+    "duration" : 1155
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "497853bedd2ff331",
+  "name" : "[7] nameCyrillicWithHyphenAtTheBeginning, 6",
+  "time" : {
+    "start" : 1649584941615,
+    "stop" : 1649584946807,
+    "duration" : 5192
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "aec76df8362ad224",
+  "name" : "shouldNotSendFormWithBoxNotClicked()",
+  "time" : {
+    "start" : 1649584886014,
+    "stop" : 1649584886996,
+    "duration" : 982
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6bcfa4d7c5183e2f",
+  "name" : "[1] wrongDays, 0",
+  "time" : {
+    "start" : 1649584812773,
+    "stop" : 1649584842447,
+    "duration" : 29674
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bda16642e6cb17a7",
+  "name" : "[5] cyrillicRuCityNameNotRegCenter, 4",
+  "time" : {
+    "start" : 1649584995293,
+    "stop" : 1649584996266,
+    "duration" : 973
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "490b0304a6485c60",
+  "name" : "[1] meetingInTwoDays, 2",
+  "time" : {
+    "start" : 1649584857213,
+    "stop" : 1649584858544,
+    "duration" : 1331
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f229cf6167bb17bd",
+  "name" : "[9] meeting_In150Years_RedundantOpportunity, 54750",
+  "time" : {
+    "start" : 1649584880741,
+    "stop" : 1649584885996,
+    "duration" : 5255
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "a77b1eaf2fa24bff",
+  "name" : "[2] meetingIn_30_Days, 30",
+  "time" : {
+    "start" : 1649585044171,
+    "stop" : 1649585045413,
+    "duration" : 1242
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3bb1f84663477583",
+  "name" : "[10] cyrillicRuCityRegCenterWithRoughCaseErrors, 9",
+  "time" : {
+    "start" : 1649585004786,
+    "stop" : 1649585010187,
+    "duration" : 5401
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "eafd3816214e2e2a",
+  "name" : "[9] nameOneHyphenOnlyWithoutLetters, 8",
+  "time" : {
+    "start" : 1649584952490,
+    "stop" : 1649584957793,
+    "duration" : 5303
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "3fa1a84cbaf884fb",
+  "name" : "[2] tooShortNumber, 1",
+  "time" : {
+    "start" : 1649584975022,
+    "stop" : 1649584980239,
+    "duration" : 5217
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "8aebde3a29f3bb9a",
+  "name" : "shouldNotValidateFieldWithEmptyName()",
+  "time" : {
+    "start" : 1649584855002,
+    "stop" : 1649584857206,
+    "duration" : 2204
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eaf0afca463f9397",
+  "name" : "[2] latinRuCityName, 1",
+  "time" : {
+    "start" : 1649584992162,
+    "stop" : 1649584993209,
+    "duration" : 1047
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b651da092e024a0",
+  "name" : "[7] meeting_InTwoYears_RedundantOpportunity, 730",
+  "time" : {
+    "start" : 1649584869652,
+    "stop" : 1649584875379,
+    "duration" : 5727
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "71f869d8cbbe3dc5",
+  "name" : "[3] meetingToday, 0",
+  "time" : {
+    "start" : 1649584860025,
+    "stop" : 1649584861343,
+    "duration" : 1318
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a072694c6c11037",
+  "name" : "[2] oneLetterNameCyrillic(minBoundaryTest), 1",
+  "time" : {
+    "start" : 1649584922566,
+    "stop" : 1649584928074,
+    "duration" : 5508
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "15516b1d3597fa93",
+  "name" : "[5] nameCyrillicWithSpecialSymbols, 4",
+  "time" : {
+    "start" : 1649584934966,
+    "stop" : 1649584935997,
+    "duration" : 1031
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ddaead4e5fa65789",
+  "name" : "shouldNotShowReplanNotificationIfUserDataAndDateRemainTheSame()",
+  "time" : {
+    "start" : 1649584904482,
+    "stop" : 1649584921381,
+    "duration" : 16899
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "c3372f556aabb2e9",
+  "name" : "[2] wrongMonths, 1",
+  "time" : {
+    "start" : 1649584842622,
+    "stop" : 1649584843822,
+    "duration" : 1200
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a8bbb9ffa784b38",
+  "name" : "shouldNotReplanIfNewDataExtendsMoreThan90DaysFromNow()",
+  "time" : {
+    "start" : 1649584887019,
+    "stop" : 1649584904466,
+    "duration" : 17447
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "b36ce076499a4b1d",
+  "name" : "[6] restrictedSymbolsNoLetters, 5",
+  "time" : {
+    "start" : 1649584996271,
+    "stop" : 1649584997324,
+    "duration" : 1053
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7515057d20c892aa",
+  "name" : "[11] nameCyrillicWithRoughCaseErrors, 10",
+  "time" : {
+    "start" : 1649584963186,
+    "stop" : 1649584968630,
+    "duration" : 5444
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "20416f40eca0a95a",
+  "name" : "[5] meetingYearAgo, -365",
+  "time" : {
+    "start" : 1649584862785,
+    "stop" : 1649584864120,
+    "duration" : 1335
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "63f20fac875490a7",
+  "name" : "[8] nonexistentCityName, 7",
+  "time" : {
+    "start" : 1649584998327,
+    "stop" : 1649584999320,
+    "duration" : 993
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a74166bee7da7236",
+  "name" : "[4] restrictedSymbolsOnlyDigits, 3",
+  "time" : {
+    "start" : 1649584994305,
+    "stop" : 1649584995289,
+    "duration" : 984
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae881d51d290216b",
+  "name" : "[4] nameCyrillicWithDigits, 3",
+  "time" : {
+    "start" : 1649584933931,
+    "stop" : 1649584934962,
+    "duration" : 1031
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6530baf065aa947c",
+  "name" : "shouldNotValidateFieldWithEmptyCityName()",
+  "time" : {
+    "start" : 1649584968646,
+    "stop" : 1649584969603,
+    "duration" : 957
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7457a2cd045e1294",
+  "name" : "[8] meeting_In100Years_RedundantOpportunity, 36500",
+  "time" : {
+    "start" : 1649584875389,
+    "stop" : 1649584880736,
+    "duration" : 5347
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d00144046108f00",
+  "name" : "[1] latinForeignCityName, 0",
+  "time" : {
+    "start" : 1649584991081,
+    "stop" : 1649584992158,
+    "duration" : 1077
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "736dcd60c196cb46",
+  "name" : "shouldNotValidateFieldWithEmptyPhoneNumber()",
+  "time" : {
+    "start" : 1649584845242,
+    "stop" : 1649584852397,
+    "duration" : 7155
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "81781b0fa51999c6",
+  "name" : "[3] extremelyLongNameCyrillic(maxBoundaryTest), 2",
+  "time" : {
+    "start" : 1649584928090,
+    "stop" : 1649584933902,
+    "duration" : 5812
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "944baf53be374e66",
+  "name" : "[1] onlyPlusSymbol, 0",
+  "time" : {
+    "start" : 1649584969608,
+    "stop" : 1649584974991,
+    "duration" : 5383
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "1066063be26a89e8",
+  "name" : "[6] meeting_In100Days_RedundantOpportunity, 100",
+  "time" : {
+    "start" : 1649584864124,
+    "stop" : 1649584869620,
+    "duration" : 5496
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "490686e11f9d2079",
+  "name" : "[3] wrongLeapYearDate, 2",
+  "time" : {
+    "start" : 1649584843894,
+    "stop" : 1649584845062,
+    "duration" : 1168
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f693838621d714c6",
+  "name" : "[8] nameCyrillicWithHyphenAtTheEnd, 7",
+  "time" : {
+    "start" : 1649584946860,
+    "stop" : 1649584952474,
+    "duration" : 5614
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "1bb50c15e167b29b",
+  "name" : "shouldPlanAndReplanMeetingSuccessfully_HappyPathTest()",
+  "time" : {
+    "start" : 1649585046684,
+    "stop" : 1649585048681,
+    "duration" : 1997
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4278c004f4f20c85",
+  "name" : "[2] letter_Yo_UpperCase, 1",
+  "time" : {
+    "start" : 1649585026433,
+    "stop" : 1649585042662,
+    "duration" : 16229
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "b46464123342b226",
+  "name" : "[3] meetingIn_90_Days, 90",
+  "time" : {
+    "start" : 1649585045426,
+    "stop" : 1649585046668,
+    "duration" : 1242
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
